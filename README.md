@@ -1,1 +1,1 @@
-# GabrielJonesBlog.github.io
+# GabrielJonesBlog.github.io/developers
